@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## set matrix properties, get matrix properties after they have been set
 
 makeCacheMatrix <- function(x = matrix()) {
 
